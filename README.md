@@ -1,2 +1,2 @@
-# ecommerce-hw
-just a test repo
+# agile-final-project
+agile-final-project repo
